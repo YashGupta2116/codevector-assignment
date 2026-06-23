@@ -1,0 +1,1 @@
+GET http://localhost:3000/products?snapshotTime=2026-06-22T12:00:00.000Z&cursorUpdatedAt=2026-06-20T17:14:07.465Z&cursorId=192507
